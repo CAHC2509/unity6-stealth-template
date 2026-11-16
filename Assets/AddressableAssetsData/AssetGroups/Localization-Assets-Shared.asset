@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Localization-Assets-Shared
+  m_GUID: de5d2a164f88c3d4880a58adc2dfd827
+  m_SerializeEntries:
+  - m_GUID: 02f9a66e23c93b2498169fdf2755d307
+    m_Address: Assets/_ProjectName/Localization/MainMenu/MainMenu Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 381db511ca2c86d4b9a21129f7933fe7
+    m_Address: Assets/_ProjectName/Localization/InputActionNames/InputActionNames
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c2750e5f91ad7d47a5dde26da687972
+    m_Address: Assets/_ProjectName/Localization/DevTools/DevTools Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3cb5b6a67ffb42d42b8a34e37aebfc64
+    m_Address: Assets/_ProjectName/Localization/DevicesNames/DevicesNames Shared
+      Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 418cfb60e2622a44a9ee0b4c6660d3ac
+    m_Address: Assets/LanguageSettings/LanguageSettings Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66c6a9856da8a7c498257e7565da1de7
+    m_Address: Assets/_ProjectName/Localization/Miscellaneous/Miscellaneous Shared
+      Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 80453240bd79ca948be72c32c31ec22c
+    m_Address: Assets/_ProjectName/Localization/SettingsMenu/ControlsSettings/ControlsSettings
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d5445aa435e2bb498843170af531ee7
+    m_Address: Assets/_ProjectName/Localization/CommonActions/CommonActions Shared
+      Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e25c66deebbc2e449dcd760d3410a41
+    m_Address: Assets/_ProjectName/Localization/SettingsMenu/DeveloperSettings/DeveloperSettings
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a880d647f6bfc884d8e8b451fa0e6ab5
+    m_Address: Assets/_ProjectName/Localization/Gameplay/Gameplay Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c33fe267336e25c4bbd48f3ba959e6b7
+    m_Address: Assets/GraphicsSettings/GraphicsSettings Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d051f8c99044c1944bc2511453898c3f
+    m_Address: Assets/_ProjectName/Localization/SettingsMenu/SensitivitySettings/SensitivitySettings
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: db3c376646435c843bb6f360d0a59e9b
+    m_Address: Assets/_ProjectName/Localization/Settings Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3673f6d420393f4a8b643c03285dc29
+    m_Address: Assets/_ProjectName/Localization/SettingsMenu/Menu/SettingsMenu Shared
+      Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 1d2763881ac515f408bdd8d737e03ef4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 598a1ec417b7b814c822db0e1bfa4528, type: 2}
+    - {fileID: 11400000, guid: b0bb5a32a7e551b4c8b38b85ed2cda5f, type: 2}

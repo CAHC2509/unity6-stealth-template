@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: InputActionNames Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: InputActionNames
+  m_TableCollectionNameGuidString: 381db511ca2c86d4b9a21129f7933fe7
+  m_Entries:
+  - m_Id: 7836696576
+    m_Key: inputActionName.move
+    m_Metadata:
+      m_Items: []
+  - m_Id: 186027507712
+    m_Key: inputActionName.up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5534373281792
+    m_Key: inputActionName.down
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5706276831232
+    m_Key: inputActionName.forward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5707082137600
+    m_Key: inputActionName.back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5708080381952
+    m_Key: inputActionName.left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5709531611136
+    m_Key: inputActionName.right
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6300412575744
+    m_Key: inputActionName.stand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6349662093312
+    m_Key: inputActionName.takedown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56765343323553792
+    m_Key: inputActionName.crouch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56765343382274048
+    m_Key: inputActionName.sprint
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3671924237385597030
+  references:
+    version: 2
+    RefIds:
+    - rid: 3671924237385597030
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1780194753858

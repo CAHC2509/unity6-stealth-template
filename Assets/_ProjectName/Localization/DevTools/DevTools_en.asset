@@ -1,0 +1,273 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DevTools_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 3c2750e5f91ad7d47a5dde26da687972, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 3061284843465474051
+  m_TableData:
+  - m_Id: 614105088
+    m_Localized: Developer Tools
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677019648
+    m_Localized: Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796864
+    m_Localized: Performance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796865
+    m_Localized: Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796866
+    m_Localized: State
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796867
+    m_Localized: Gameplay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796868
+    m_Localized: Input
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796869
+    m_Localized: Capture
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796870
+    m_Localized: Console
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796871
+    m_Localized: FPS (avg / min / max / 1% low)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796872
+    m_Localized: Frame time ms (avg / max)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796873
+    m_Localized: CPU main thread (ms)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796874
+    m_Localized: CPU render thread (ms)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796875
+    m_Localized: GC allocated per frame (KB)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796876
+    m_Localized: Total used memory (MB)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796877
+    m_Localized: GC reserved memory (MB)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796878
+    m_Localized: Draw calls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796879
+    m_Localized: Vertices
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796880
+    m_Localized: SetPass calls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796881
+    m_Localized: Triangles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796882
+    m_Localized: Show overlay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796883
+    m_Localized: Run benchmark (10 s)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796884
+    m_Localized: Benchmark running... {0} s left
+    m_Metadata:
+      m_Items:
+      - rid: 3061284843465474051
+  - m_Id: 697991168
+    m_Localized: Benchmark saved to {0}
+    m_Metadata:
+      m_Items:
+      - rid: 3061284843465474051
+  - m_Id: 697991169
+    m_Localized: Could not save the file. Check the console.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991170
+    m_Localized: Time scale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991171
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991172
+    m_Localized: Next frame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991173
+    m_Localized: Reset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991174
+    m_Localized: Copy to clipboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991175
+    m_Localized: Export JSON
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991176
+    m_Localized: State copied to the clipboard.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991177
+    m_Localized: State saved to {0}
+    m_Metadata:
+      m_Items:
+      - rid: 3061284843465474051
+  - m_Id: 697991178
+    m_Localized: Refresh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991179
+    m_Localized: This screen has no gameplay commands.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991180
+    m_Localized: Invisible to enemies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991181
+    m_Localized: Restart mission
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991182
+    m_Localized: Teleport to the exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991183
+    m_Localized: Respawn at checkpoint {0}
+    m_Metadata:
+      m_Items:
+      - rid: 3061284843465474051
+  - m_Id: 697991184
+    m_Localized: Record
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991185
+    m_Localized: Stop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991186
+    m_Localized: Replay last recording
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991187
+    m_Localized: Show pressed inputs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991188
+    m_Localized: Open folder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991189
+    m_Localized: Input pressed while this panel is open is not recorded.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991190
+    m_Localized: Recording... close the panel (F1) and play.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991191
+    m_Localized: Replaying {0} events...
+    m_Metadata:
+      m_Items:
+      - rid: 3061284843465474051
+  - m_Id: 697991192
+    m_Localized: '{0} events saved to {1}'
+    m_Metadata:
+      m_Items:
+      - rid: 3061284843465474051
+  - m_Id: 697991193
+    m_Localized: Screenshot + state
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991194
+    m_Localized: Export state JSON
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991195
+    m_Localized: Screenshot saved to {0}
+    m_Metadata:
+      m_Items:
+      - rid: 3061284843465474051
+  - m_Id: 697991196
+    m_Localized: In-game debug console
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991197
+    m_Localized: Export session log (.txt)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991198
+    m_Localized: Errors
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991199
+    m_Localized: Warnings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991200
+    m_Localized: Messages
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991201
+    m_Localized: Session log saved to {0}
+    m_Metadata:
+      m_Items:
+      - rid: 3061284843465474051
+  references:
+    version: 2
+    RefIds:
+    - rid: 3061284843465474051
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 693796884
+        - id: 697991168
+        - id: 697991177
+        - id: 697991183
+        - id: 697991191
+        - id: 697991192
+        - id: 697991195
+        - id: 697991201

@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: SettingsMenu Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: SettingsMenu
+  m_TableCollectionNameGuidString: e3673f6d420393f4a8b643c03285dc29
+  m_Entries:
+  - m_Id: 6247055360
+    m_Key: settingsMenu.graphics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101709414400
+    m_Key: settingsMenu.audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146093539328
+    m_Key: settingsMenu.controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 205489078272
+    m_Key: settingsMenu.language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 756196999168
+    m_Key: settingsMenu.title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11829994193584128
+    m_Key: settingsMenu.sensitivity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69099738684358656
+    m_Key: settingsMenu.developer
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3671923761372725398
+  references:
+    version: 2
+    RefIds:
+    - rid: 3671923761372725398
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1778380521489

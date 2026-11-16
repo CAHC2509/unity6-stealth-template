@@ -1,0 +1,40 @@
+{
+    "name": "StealthController.Unity",
+    "rootNamespace": "StealthController.Unity",
+    "references": [
+        "StealthController.Core",
+        "Unity.InputSystem",
+        "Unity.AI.Navigation",
+        "Unity.TextMeshPro",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "STEALTH_HAS_INPUT_SYSTEM",
+        "STEALTH_HAS_AI_NAVIGATION",
+        "STEALTH_HAS_UGUI"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.unity.inputsystem",
+            "expression": "1.7.0",
+            "define": "STEALTH_HAS_INPUT_SYSTEM"
+        },
+        {
+            "name": "com.unity.ai.navigation",
+            "expression": "2.0.0",
+            "define": "STEALTH_HAS_AI_NAVIGATION"
+        },
+        {
+            "name": "com.unity.ugui",
+            "expression": "2.0.0",
+            "define": "STEALTH_HAS_UGUI"
+        }
+    ],
+    "noEngineReferences": false
+}

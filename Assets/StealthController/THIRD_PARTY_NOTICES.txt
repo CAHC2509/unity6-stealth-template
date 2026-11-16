@@ -1,0 +1,16 @@
+Stealth Controller - third-party notices
+
+Lexend font (Art/Fonts/Lexend/)
+  F_Lexend.ttf, F_Lexend-Medium.ttf, F_Lexend-Bold.ttf and their TextMesh Pro font assets.
+  Copyright 2018 The Lexend Project Authors (https://github.com/googlefonts/lexend).
+  SIL Open Font License 1.1. The full license is in Art/Fonts/Lexend/OFL.txt.
+
+Posture icons (Art/UI/Posture/)
+  UI_PostureStanding.png - "walk-fill" from MingCute Icon (https://github.com/Richard9394/MingCute), Apache License 2.0, recoloured and rasterised.
+  UI_PostureCrouched.png - "squats-fill" from MingCute Icon (https://github.com/Richard9394/MingCute), Apache License 2.0, recoloured and rasterised.
+  UI_PostureProne.png - original drawing made for this project in the MingCute style.
+  Apache License 2.0: https://www.apache.org/licenses/LICENSE-2.0
+
+Character model and animations (Art/Characters/Mixamo/)
+  Character and animation clips from Adobe Mixamo (https://www.mixamo.com), used under the Mixamo terms:
+  royalty-free inside a project, not redistributable as standalone assets.

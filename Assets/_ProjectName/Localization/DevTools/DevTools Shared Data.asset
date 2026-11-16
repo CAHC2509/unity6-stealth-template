@@ -1,0 +1,256 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: DevTools Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: DevTools
+  m_TableCollectionNameGuidString: 3c2750e5f91ad7d47a5dde26da687972
+  m_Entries:
+  - m_Id: 614105088
+    m_Key: devTools.title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677019648
+    m_Key: devTools.close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796864
+    m_Key: devTools.tabPerformance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796865
+    m_Key: devTools.tabTime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796866
+    m_Key: devTools.tabState
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796867
+    m_Key: devTools.tabGameplay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796868
+    m_Key: devTools.tabInput
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796869
+    m_Key: devTools.tabCapture
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796870
+    m_Key: devTools.tabConsole
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796871
+    m_Key: devTools.perfFps
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796872
+    m_Key: devTools.perfFrameTime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796873
+    m_Key: devTools.perfMainThread
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796874
+    m_Key: devTools.perfRenderThread
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796875
+    m_Key: devTools.perfGcAlloc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796876
+    m_Key: devTools.perfUsedMemory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796877
+    m_Key: devTools.perfGcReserved
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796878
+    m_Key: devTools.perfDrawCalls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796879
+    m_Key: devTools.perfVertices
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796880
+    m_Key: devTools.perfSetPass
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796881
+    m_Key: devTools.perfTriangles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796882
+    m_Key: devTools.perfOverlay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796883
+    m_Key: devTools.perfBenchmark
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796884
+    m_Key: devTools.statusBenchmarkRunning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991168
+    m_Key: devTools.statusBenchmarkSaved
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991169
+    m_Key: devTools.statusSaveFailed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991170
+    m_Key: devTools.timeScale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991171
+    m_Key: devTools.timePause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991172
+    m_Key: devTools.timeStep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991173
+    m_Key: devTools.timeReset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991174
+    m_Key: devTools.stateCopy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991175
+    m_Key: devTools.stateExport
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991176
+    m_Key: devTools.statusCopied
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991177
+    m_Key: devTools.statusStateSaved
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991178
+    m_Key: devTools.gameplayRefresh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991179
+    m_Key: devTools.gameplayEmpty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991180
+    m_Key: devTools.commandInvisible
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991181
+    m_Key: devTools.commandRestartMission
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991182
+    m_Key: devTools.commandTeleportExit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991183
+    m_Key: devTools.commandRespawnCheckpoint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991184
+    m_Key: devTools.inputRecord
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991185
+    m_Key: devTools.inputStop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991186
+    m_Key: devTools.inputReplay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991187
+    m_Key: devTools.inputDisplay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991188
+    m_Key: devTools.openFolder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991189
+    m_Key: devTools.statusInputIdle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991190
+    m_Key: devTools.statusInputRecording
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991191
+    m_Key: devTools.statusInputReplaying
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991192
+    m_Key: devTools.statusInputSaved
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991193
+    m_Key: devTools.captureScreenshot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991194
+    m_Key: devTools.captureExportState
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991195
+    m_Key: devTools.statusCaptureSaved
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991196
+    m_Key: devTools.consoleEnable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991197
+    m_Key: devTools.consoleExport
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991198
+    m_Key: devTools.consoleErrors
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991199
+    m_Key: devTools.consoleWarnings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991200
+    m_Key: devTools.consoleMessages
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991201
+    m_Key: devTools.statusLogsSaved
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3061284843465474048
+  references:
+    version: 2
+    RefIds:
+    - rid: 3061284843465474048
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1794854979696

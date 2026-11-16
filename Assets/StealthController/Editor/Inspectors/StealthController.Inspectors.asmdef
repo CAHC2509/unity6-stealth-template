@@ -1,0 +1,39 @@
+{
+    "name": "StealthController.Inspectors",
+    "rootNamespace": "StealthController.Inspectors",
+    "references": [
+        "StealthController.Core",
+        "StealthController.Unity"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "STEALTH_HAS_INPUT_SYSTEM",
+        "STEALTH_HAS_AI_NAVIGATION",
+        "STEALTH_HAS_UGUI"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.unity.inputsystem",
+            "expression": "1.7.0",
+            "define": "STEALTH_HAS_INPUT_SYSTEM"
+        },
+        {
+            "name": "com.unity.ai.navigation",
+            "expression": "2.0.0",
+            "define": "STEALTH_HAS_AI_NAVIGATION"
+        },
+        {
+            "name": "com.unity.ugui",
+            "expression": "2.0.0",
+            "define": "STEALTH_HAS_UGUI"
+        }
+    ],
+    "noEngineReferences": false
+}

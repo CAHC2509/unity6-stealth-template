@@ -1,0 +1,273 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DevTools_es
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 3c2750e5f91ad7d47a5dde26da687972, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 3061284843465474050
+  m_TableData:
+  - m_Id: 614105088
+    m_Localized: Herramientas de desarrollo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677019648
+    m_Localized: Cerrar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796864
+    m_Localized: Rendimiento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796865
+    m_Localized: Tiempo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796866
+    m_Localized: Estado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796867
+    m_Localized: Juego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796868
+    m_Localized: Entrada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796869
+    m_Localized: Captura
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796870
+    m_Localized: Consola
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796871
+    m_Localized: "FPS (media / m\xEDn / m\xE1x / 1% bajo)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796872
+    m_Localized: "Tiempo de frame ms (media / m\xE1x)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796873
+    m_Localized: CPU hilo principal (ms)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796874
+    m_Localized: CPU hilo de render (ms)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796875
+    m_Localized: GC asignado por frame (KB)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796876
+    m_Localized: Memoria usada total (MB)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796877
+    m_Localized: Memoria reservada por GC (MB)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796878
+    m_Localized: Draw calls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796879
+    m_Localized: "V\xE9rtices"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796880
+    m_Localized: SetPass calls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796881
+    m_Localized: "Tri\xE1ngulos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796882
+    m_Localized: Mostrar overlay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796883
+    m_Localized: Ejecutar benchmark (10 s)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693796884
+    m_Localized: Benchmark en curso... quedan {0} s
+    m_Metadata:
+      m_Items:
+      - rid: 3061284843465474050
+  - m_Id: 697991168
+    m_Localized: Benchmark guardado en {0}
+    m_Metadata:
+      m_Items:
+      - rid: 3061284843465474050
+  - m_Id: 697991169
+    m_Localized: No se pudo guardar el archivo. Revisa la consola.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991170
+    m_Localized: Escala de tiempo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991171
+    m_Localized: Pausa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991172
+    m_Localized: Siguiente frame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991173
+    m_Localized: Restablecer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991174
+    m_Localized: Copiar al portapapeles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991175
+    m_Localized: Exportar JSON
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991176
+    m_Localized: Estado copiado al portapapeles.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991177
+    m_Localized: Estado guardado en {0}
+    m_Metadata:
+      m_Items:
+      - rid: 3061284843465474050
+  - m_Id: 697991178
+    m_Localized: Actualizar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991179
+    m_Localized: Esta pantalla no tiene comandos de juego.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991180
+    m_Localized: Invisible para los enemigos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991181
+    m_Localized: "Reiniciar misi\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991182
+    m_Localized: Teletransportar a la salida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991183
+    m_Localized: Reaparecer en el checkpoint {0}
+    m_Metadata:
+      m_Items:
+      - rid: 3061284843465474050
+  - m_Id: 697991184
+    m_Localized: Grabar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991185
+    m_Localized: Detener
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991186
+    m_Localized: "Reproducir \xFAltima grabaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991187
+    m_Localized: Mostrar input pulsado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991188
+    m_Localized: Abrir carpeta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991189
+    m_Localized: El input pulsado con este panel abierto no se graba.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991190
+    m_Localized: Grabando... cierra el panel (F1) y juega.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991191
+    m_Localized: Reproduciendo {0} eventos...
+    m_Metadata:
+      m_Items:
+      - rid: 3061284843465474050
+  - m_Id: 697991192
+    m_Localized: '{0} eventos guardados en {1}'
+    m_Metadata:
+      m_Items:
+      - rid: 3061284843465474050
+  - m_Id: 697991193
+    m_Localized: Captura + estado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991194
+    m_Localized: Exportar estado JSON
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991195
+    m_Localized: Captura guardada en {0}
+    m_Metadata:
+      m_Items:
+      - rid: 3061284843465474050
+  - m_Id: 697991196
+    m_Localized: "Consola de depuraci\xF3n en juego"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991197
+    m_Localized: "Exportar log de la sesi\xF3n (.txt)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991198
+    m_Localized: Errores
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991199
+    m_Localized: Advertencias
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991200
+    m_Localized: Mensajes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697991201
+    m_Localized: "Log de la sesi\xF3n guardado en {0}"
+    m_Metadata:
+      m_Items:
+      - rid: 3061284843465474050
+  references:
+    version: 2
+    RefIds:
+    - rid: 3061284843465474050
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 693796884
+        - id: 697991168
+        - id: 697991177
+        - id: 697991183
+        - id: 697991191
+        - id: 697991192
+        - id: 697991195
+        - id: 697991201
